@@ -1,6 +1,6 @@
 # GS1_FIAP
 
-3ECR - 2022 - APMD
-84902	Vitor Barbosa\n
-86417	Matheus Henrique\n
-84614	Giovanna Ligeri\n
+3ECR - 2022 - APMD<br />
+84902	Vitor Barbosa<br />
+86417	Matheus Henrique<br />
+84614	Giovanna Ligeri<br />
